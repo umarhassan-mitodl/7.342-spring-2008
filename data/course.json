@@ -32,7 +32,8 @@
     "website": "7-342-developmental-and-molecular-biology-of-regeneration-spring-2008"
   },
   "course_title": "Developmental and Molecular Biology of Regeneration",
-  "course_description": "How does a regenerating animal \"know\" what's missing? How are stem cells or differentiated cells used to create new tissues during regeneration? In this class we will take a comparative approach to explore this fascinating problem by critically examining classic and modern scientific literature about the developmental and molecular biology of regeneration. We will learn about conserved developmental pathways that are necessary for regeneration, and we will discuss the relevance of these findings for regenerative medicine.\n\nThis course is one of many {{% resource_link \"8d5690f8-8624-453e-aafc-b46f96091f1b\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "hide_download": true,
+  "course_description": "How does a regenerating animal \"know\" what's missing? How are stem cells or differentiated cells used to create new tissues during regeneration? In this class we will take a comparative approach to explore this fascinating problem by critically examining classic and modern scientific literature about the developmental and molecular biology of regeneration. We will learn about conserved developmental pathways that are necessary for regeneration, and we will discuss the relevance of these findings for regenerative medicine.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
   "department_numbers": [
     "7"
   ],
@@ -42,6 +43,7 @@
     "content": "c7cd2a25-27ba-5f4b-ce54-e05c0c2d8067",
     "website": "7-342-developmental-and-molecular-biology-of-regeneration-spring-2008"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments",
     "Presentation Assignments"
