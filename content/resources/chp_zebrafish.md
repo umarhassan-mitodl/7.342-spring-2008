@@ -5,8 +5,6 @@ description: Zebra danios, or zebrafish, can regenerate several tissues, includi
 file: /courses/7-342-developmental-and-molecular-biology-of-regeneration-spring-2008/3cce28a42df982d39e135c3efdc0e023_chp_zebrafish.jpg
 file_size: 48165
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
